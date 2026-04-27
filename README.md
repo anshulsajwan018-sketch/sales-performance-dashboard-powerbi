@@ -77,8 +77,7 @@ This dashboard addresses that gap by providing a unified and interactive analyti
 - Payment Mode Distribution (Bar Chart)  
 
 ### 📸 Dashboard Preview  
-![Sales Dashboard](./Images/dashboard.png)
-
+![Dashboard](sales-performance-dashboard-powerbi/images/dashboard.png)
 
 ## 🔹 Key Learnings  
 
